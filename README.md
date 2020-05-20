@@ -7,10 +7,11 @@ Simple Cooking App using Flutter, that allows you to categorize your meals and s
 - You can favourite some meals to your preference
 
 # Technologies
- Flutter
+ ### Flutter
  
  # Previews
- 
+ <img src="cooking.jpg" height="400" >
+
  
  # License
  **MIT License**
